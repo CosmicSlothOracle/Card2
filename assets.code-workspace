@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../assets"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../scripts"
+		},
+		{
+			"path": "../tests"
+		},
+		{
+			"path": "../utils"
+		}
+	]
+}
